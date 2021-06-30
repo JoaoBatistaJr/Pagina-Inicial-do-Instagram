@@ -1,5 +1,5 @@
 # Página Inicial do Instagram
-#### Nesse pequenos projeto, recriei a página inicial do Instagram utilizando flexbox.
+#### Nesse pequeno projeto, recriei a página inicial do Instagram utilizando flexbox.
 
 * O projeto foi realizado como primeiro desafio do **Bootcamp** [Javascript Game Developer](https://web.digitalinnovation.one/track/javascript-game-developer?tab=path)
 
